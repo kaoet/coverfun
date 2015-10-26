@@ -3,3 +3,4 @@
 * __plot__: R script to plot the graphs
 * __suitegen__: Test suite generation
 * __tool__: Mutation testing
+* __data__: All the data
